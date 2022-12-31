@@ -1,0 +1,5 @@
+# @kadaxi
+
+theme = "erebus"
+long_kernel = false
+long_shell = false
