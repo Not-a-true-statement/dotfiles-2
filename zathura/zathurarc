@@ -29,18 +29,18 @@ set statusbar-fg                "#EEFFFF" # Foreground
 set highlight-color             "#FFCB6B" # Yellow
 set highlight-active-color      "#A54C3F" # Red
 
-set default-bg                  "#2A2A2A" # Background
+set default-bg                  "#111111" # Background
 set default-fg                  "#EEFFFF" # Foreground
 
 set render-loading              true
-set render-loading-fg           "#2A2A2A" # Background
+set render-loading-fg           "#111111" # Background
 set render-loading-bg           "#EEFFFF" # Foreground
 
 #
 # Recolor mode settings
 #
 
-set recolor-lightcolor          "#191919" # Background
+set recolor-lightcolor          "#111111" # Background
 set recolor-darkcolor           "#EEFFFF" # Foreground
 
 #
