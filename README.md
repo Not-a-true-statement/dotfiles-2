@@ -12,5 +12,8 @@
 - 🧑‍🚀 **Prompt**: Starship
 - 🌐 **Browser**: Firefox, erebus theme
 
+>> Check out `must-install.md` for get a list of packages/tools to install and setup dotfiles succesfully!
+
 ## Inspiration
-- Under development...
+- [Erebus theme](https://github.com/kadaxi)
+- [CozyTile](https://github.com/Darkkal44/CozyTile)
