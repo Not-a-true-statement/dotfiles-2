@@ -1,0 +1,16 @@
+## Tools
+- colorls
+- ruby
+- gem
+- macchina
+- bat
+- zsh
+- custom NF (check out [Nerd font](https://www.nerdfonts.com/font-downloads))
+- neovim
+- rofi
+- firefox
+- starship
+- picom
+- alacritty
+- zathura
+- exa
