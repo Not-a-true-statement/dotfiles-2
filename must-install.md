@@ -14,3 +14,9 @@
 - alacritty
 - zathura
 - exa
+- dbus-next (pip3)
+- mpris2 (pip)
+- mupdf (zathura)
+- ranger (file manager)
+- codeblocks (optional / terminal block)
+- peaclock (optional / terminal time)
