@@ -40,3 +40,4 @@ bindkey "^[[1;5D" backward-word
 # -/ call on init
 alias sys="systemctl suspend"
 btw
+export PATH=$PATH:/home/mezora/.spicetify
