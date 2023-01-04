@@ -20,3 +20,6 @@
 - ranger (file manager)
 - codeblocks (optional / terminal block)
 - peaclock (optional / terminal time)
+- python
+- python-pip
+- qtile
