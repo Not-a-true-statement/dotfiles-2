@@ -23,3 +23,4 @@
 - python
 - python-pip
 - qtile
+- cava (sound visualizer)
