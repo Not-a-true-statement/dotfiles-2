@@ -1,7 +1,7 @@
 # 🐧 Linux dotfiles
 ![banner-screenshot](assets/img/screenshot.png)
 
-## 🔧 Tech stack
+## 🔧  Tech stack
 - 🧬 **Distro**: Arch linux
 - 🐍 **WM**: Qtile
 - 🌠 **Shell**: Zsh
@@ -12,8 +12,8 @@
 - 🧑‍🚀 **Prompt**: Starship
 - 🌐 **Browser**: Firefox, erebus theme
 
-> Check out `must-install.md` for get a list of packages/tools to install and setup dotfiles succesfully!
+> 💭 Check out `must-install.md` for get a list of packages/tools to install and setup dotfiles succesfully.
 
-## 🔎 Inspiration
+## 🔎  Inspiration
 - [Erebus theme](https://github.com/kadaxi)
 - [CozyTile](https://github.com/Darkkal44/CozyTile)
